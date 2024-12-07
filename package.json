@@ -40,7 +40,7 @@
     "typescript": "^5.7.2"
   },
   "dependencies": {
-    "aptx-validator": "^3.0.0",
+    "aptx-validator": "^3.2.0",
     "dotenv": "^16.4.5",
     "express": "^4.21.1",
     "express-fileupload": "^1.5.1",
